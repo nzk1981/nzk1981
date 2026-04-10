@@ -10,7 +10,7 @@ https://7pal.short.gy/fs1us
 https://7pal.short.gy/fs2us
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png", MLB Network
 http://89.105.221.127/MLBNetwork/mpegts?token=test
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="体育竞技 - 北美",NBC Sports Philadelphia
+#EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png", NBC Sports Philadelphia
 http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png", NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
