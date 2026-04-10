@@ -3,21 +3,23 @@
 #EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network
 https://7pal.short.gy/cbssptnw
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN
-https://7pal.short.gy/espnus
+http://cord-cutter.net:8080/bn80NG/909467/99624
 #EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png", FS 1
 https://7pal.short.gy/fs1us
 #EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png", FS 2
 https://7pal.short.gy/fs2us
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png", MLB Network
-https://7pal.short.gy/mlbnw
+http://89.105.221.127/MLBNetwork/mpegts?token=test
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="体育竞技 - 北美",NBC Sports Philadelphia
+http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png", NBA TV
-https://7pal.short.gy/nbatvus
+http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg", NFL Network
-https://7pal.short.gy/nflnw
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
 https://7pal.short.gy/nflredz
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png", NHL Network
-https://7pal.short.gy/nhlnw
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png", Premier Sports 1 FHD
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2 FHD
@@ -25,6 +27,6 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Sports" tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png", Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png", Tennis Channel
-https://7pal.short.gy/tennisc
+http://cord-cutter.net:8080/bn80NG/909467/20184
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png", TNT Sports Ultimate
 https://7pal.short.gy/TNTUltimate
