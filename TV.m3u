@@ -78,7 +78,7 @@ http://kstv.us:8080/live/Cyndean/6723407368/23332.ts
 http://kstv.us:8080/live/Cyndean/6723407368/23330.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Junior.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true", Disney JR
 http://kstv.us:8080/live/Cyndean/6723407368/47621.ts
-#EXTINF:-1 group-title="Kids" tvg-id="MeToonsKIKUDT2.us" tvg-logo="http://apk.eternaltv.net/icons/metvtoons.jpg", MeTV Toons
+#EXTINF:-1 group-title="Kids" tvg-id="MeToonsKIKUDT2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true", MeTV Toons
 http://kstv.us:8080/live/Cyndean/6723407368/48753.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true", Nick Jr.
 http://kstv.us:8080/live/Cyndean/6723407368/23276.ts
