@@ -39,6 +39,18 @@ http://kstv.us:8080/live/Cyndean/6723407368/15930.ts
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png", Tennis Channel
 http://cord-cutter.net:8080/bn80NG/909467/20184
 
+#EXTINF:-1 group-title="TV" tvg-id="abcwpviphiladelphia.us" tvg-logo="https://pixiperfect.xyz:443/images/2TKBTW3WeNjFLkaqAGqqaL6CL0GVezCZ0H4-lji5-qElmg5EriNf3bd8q-JwmeFhQ07CfSNVVH8H6MsePgmLpw.png", ABC 6 (WPVI)
+http://kstv.us:8080/live/Cyndean/6723407368/49463.ts
+#EXTINF:-1 group-title="TV" tvg-id="cbs3kywphiladelphia.us" tvg-logo="https://pixiperfect.xyz:443/images/2TKBTW3WeNjFLkaqAGqqaNzEy8MpdaxBGpA_NxbMjloqci0kOoO-2kE_IYtBpWzC.png", CBS 3 (KYW)
+http://kstv.us:8080/live/Cyndean/6723407368/49464.ts
+#EXTINF:-1 group-title="TV" tvg-id="foxwtxfphiladelphia.us" tvg-logo="https://pixiperfect.xyz:443/images/2TKBTW3WeNjFLkaqAGqqaOMZ47P7PJ6Wa2jKiucNOMq7v3JyP0yfvKx_EIE5Rwgn6Dh5SiX5GeGSCZqtlninHQ.png", FOX 29 (WTXF)
+http://kstv.us:8080/live/Cyndean/6723407368/49466.ts
+#EXTINF:-1 group-title="TV" tvg-id="wtnbcd.us" tvg-logo="https://pixiperfect.xyz:443/images/2TKBTW3WeNjFLkaqAGqqaAIe9uu1viMMSuUkvV3CX5y94z65vIVTU8nxr-4IP6Pk.png", NBC 10 (WCAU)
+http://kstv.us:8080/live/Cyndean/6723407368/49467.ts
+#EXTINF:-1 group-title="TV" tvg-id="17wphlwphl.us" tvg-logo="https://pixiperfect.xyz:443/images/V512ZpPaDF-QwLnPk7ejYI9w9IqStMNF3LccC_svlDS_pin4OQckG07YO3JVsp6BSlLNMywGjjgHwwRbGPpKP3C83A_-t9-NTW7Z-AgmjRI.png", PHL17 (WPHL)
+http://kstv.us:8080/live/Cyndean/6723407368/49465.ts
+#EXTINF:-1 group-title="TV" tvg-id="nccwla.us" tvg-logo="https://pixiperfect.xyz:443/images/2TKBTW3WeNjFLkaqAGqqaE660FUCHnqMekf_lvpXc9QOSjXBcYB-_uOovGHdIuQ_.png", CW 57 (WPSG)
+http://kstv.us:8080/live/Cyndean/6723407368/49468.ts
 #EXTINF:-1 group-title="TV" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true", Animal Planet
 http://kstv.us:8080/live/Cyndean/6723407368/15957.ts
 #EXTINF:-1 group-title="TV" tvg-id="AXS.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png?raw=true", AXS TV
