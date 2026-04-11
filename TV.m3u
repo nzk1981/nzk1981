@@ -1,29 +1,39 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
 #EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network
-https://7pal.short.gy/cbssptnw
+http://kstv.us:8080/live/Cyndean/6723407368/15944.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN
-http://cord-cutter.net:8080/bn80NG/909467/99624
-#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png", FS 1
-https://7pal.short.gy/fs1us
-#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png", FS 2
-https://7pal.short.gy/fs2us
+http://kstv.us:8080/live/Cyndean/6723407368/15951.ts
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="https://tlgrm.re/images/espn-2-us.png", ESPN 2
+http://kstv.us:8080/live/Cyndean/6723407368/15950.ts
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSoccerPlus.us" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_soccer_plus.png", Fox Soccer Plus
+http://kstv.us:8080/live/Cyndean/6723407368/23315.ts
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports1.us" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png", Fox Sports 1
+http://kstv.us:8080/live/Cyndean/6723407368/15948.ts
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports2.us" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png", Fox Sports 2
+http://kstv.us:8080/live/Cyndean/6723407368/15947.ts
+#EXTINF:-1 group-title="Sports" tvg-id="GolfChannel.us" tvg-logo="https://www.lyngsat.com//logo/tv/gg/golf_channel_us.png", Golf Channel
+http://kstv.us:8080/live/Cyndean/6723407368/15943.ts
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png", MLB Network
 http://89.105.221.127/MLBNetwork/mpegts?token=test
 #EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png", NBC Sports Philadelphia
 http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg", NFL Network
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
-https://7pal.short.gy/nflredz
+http://kstv.us:8080/live/Cyndean/6723407368/15946.ts
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://tlgrm.re/images/nfl-network-us.png", NFL Network
+http://kstv.us:8080/live/Cyndean/6723407368/22491.ts
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nfl_red_zone.png", NFL Redzone
+http://kstv.us:8080/live/Cyndean/6723407368/23279.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png", NHL Network
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png", Premier Sports 1 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png", Premier Sports 1
 https://7pal.short.gy/prsport1
-#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2
 https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://tlgrm.re/images/sportsnet-360-ca.png", Sports Net 360
+http://kstv.us:8080/live/Cyndean/6723407368/15938.ts
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png", Sportsnet One
+http://kstv.us:8080/live/Cyndean/6723407368/15930.ts
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png", Tennis Channel
 http://cord-cutter.net:8080/bn80NG/909467/20184
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.4K.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-4k-ca.png?raw=true", Sportsnet 4K 
@@ -40,17 +50,21 @@ http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293860
 https://xemzi.short.gy/9000013
 
 #EXTINF:-1 group-title="TV" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true", Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+http://kstv.us:8080/live/Cyndean/6723407368/15957.ts
 #EXTINF:-1 group-title="TV" tvg-id="AXS.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png?raw=true", AXS TV
-http://23.239.31.26:8989/axstv/index.m3u8
+http://kstv.us:8080/live/Cyndean/6723407368/47160.ts
 #EXTINF:-1 group-title="TV" tvg-id="Comedy.Central.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true", Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+http://kstv.us:8080/live/Cyndean/6723407368/22553.ts
 #EXTINF:-1 group-title="TV" tvg-id="CMT.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-color-us.png?raw=true", CMT
 http://cord-cutter.net:8080/96082340/96082340/46706
+#EXTINF:-1 group-title="TV" tvg-id="FoodNetwork.us" tvg-logo="https://tlgrm.re/images/food-network-us.png", Food Network
+http://kstv.us:8080/live/Cyndean/6723407368/23323.ts
 #EXTINF:-1 group-title="TV" tvg-id="Freeform.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true", Freeform
-http://1tv41.icu:8080/live/Y06DNq/295733/13370.rtmp
+http://kstv.us:8080/live/Cyndean/6723407368/23313.ts
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://tlgrm.re/images/heroes-and-icons-us.png", Heroes & Icons
+http://kstv.us:8080/live/Cyndean/6723407368/23225.ts
 #EXTINF:-1 group-title="TV" tvg-id="History.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true", History Channel
-http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
+http://kstv.us:8080/live/Cyndean/6723407368/22515.ts
 #EXTINF:-1 group-title="TV" tvg-id="Me.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true", MeTV
 http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Smithsonian.HD.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true", Smithsonian Channel
