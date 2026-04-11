@@ -39,17 +39,17 @@ http://kstv.us:8080/live/Cyndean/6723407368/15930.ts
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png", Tennis Channel
 http://cord-cutter.net:8080/bn80NG/909467/20184
 
-#EXTINF:-1 group-title="TV" tvg-id="abcwpviphiladelphia.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png", ABC 6 (WPVI)
+#EXTINF:-1 group-title="TV" tvg-id="abcwpviphiladelphia.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png?raw=true", ABC 6 (WPVI)
 http://kstv.us:8080/live/Cyndean/6723407368/49463.ts
-#EXTINF:-1 group-title="TV" tvg-id="cbs3kywphiladelphia.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-3-kyw-us.png", CBS 3 (KYW)
+#EXTINF:-1 group-title="TV" tvg-id="cbs3kywphiladelphia.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-3-kyw-us.png?raw=true", CBS 3 (KYW)
 http://kstv.us:8080/live/Cyndean/6723407368/49464.ts
-#EXTINF:-1 group-title="TV" tvg-id="foxwtxfphiladelphia.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-29-wtxf-us.png", FOX 29 (WTXF)
+#EXTINF:-1 group-title="TV" tvg-id="foxwtxfphiladelphia.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-29-wtxf-us.png?raw=true", FOX 29 (WTXF)
 http://kstv.us:8080/live/Cyndean/6723407368/49466.ts
-#EXTINF:-1 group-title="TV" tvg-id="wtnbcd.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-10-wcau-us.png", NBC 10 (WCAU)
+#EXTINF:-1 group-title="TV" tvg-id="wtnbcd.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-10-wcau-us.png?raw=true", NBC 10 (WCAU)
 http://kstv.us:8080/live/Cyndean/6723407368/49467.ts
 #EXTINF:-1 group-title="TV" tvg-id="17wphlwphl.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/WPHL_2018_logo.png", PHL17 (WPHL)
 http://kstv.us:8080/live/Cyndean/6723407368/49465.ts
-#EXTINF:-1 group-title="TV" tvg-id="nccwla.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cw/cw-57-wpsg-us.png", CW 57 (WPSG)
+#EXTINF:-1 group-title="TV" tvg-id="nccwla.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cw/cw-57-wpsg-us.png?raw=true", CW 57 (WPSG)
 http://kstv.us:8080/live/Cyndean/6723407368/49468.ts
 #EXTINF:-1 group-title="TV" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true", Animal Planet
 http://kstv.us:8080/live/Cyndean/6723407368/15957.ts
