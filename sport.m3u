@@ -1,13 +1,15 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
 #EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network
-https://7pal.short.gy/cbssptnw
+http://kstv.us:8080/live/Cyndean/6723407368/15944.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN
 http://cord-cutter.net:8080/bn80NG/909467/99624
 #EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png", FS 1
-https://7pal.short.gy/fs1us
+http://kstv.us:8080/live/Cyndean/6723407368/15948.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png", FS 2
-https://7pal.short.gy/fs2us
+http://kstv.us:8080/live/Cyndean/6723407368/15947.ts
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSoccerPlus.us" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_soccer_plus.png", Fox Soccer Plus
+http://kstv.us:8080/live/Cyndean/6723407368/23315.ts
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png", MLB Network
 http://89.105.221.127/MLBNetwork/mpegts?token=test
 #EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png", NBC Sports Philadelphia
@@ -20,13 +22,25 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 https://7pal.short.gy/nflredz
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png", NHL Network
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png", Premier Sports 1 FHD
-https://7pal.short.gy/prsport1
-#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2 FHD
-https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png", Premier Sports 1
+http://kstv.us:8080/live/Cyndean/6723407368/47858.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2
+http://kstv.us:8080/live/Cyndean/6723407368/47859.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png", Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png", Tennis Channel
 http://cord-cutter.net:8080/bn80NG/909467/20184
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png", TNT Sports Ultimate
 https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.4K.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-4k-ca.png?raw=true", Sportsnet 4K 
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260804
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.One.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true", Sportsnet One 4K
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260803
+#EXTINF:-1 group-title="Sports" tvg-id="TSN.4K.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true", TSN 4K
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
+#EXTINF:-1 group-title="Sports" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true", Sky Sports Main Event 4K
+https://xemzi.short.gy/2000015
+#EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.Ultimate.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true", TNT Sports Ultimate 4K
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293860
+#EXTINF:-1 group-title="Sports" tvg-id="V.sport.ultra.HD.dk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/v-sport-ultrahd-se.png?raw=true",V Sport UltraHD
+https://xemzi.short.gy/9000013
