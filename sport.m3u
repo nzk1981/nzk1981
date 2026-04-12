@@ -32,6 +32,8 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 https://7pal.short.gy/nflredz
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png", NHL Network
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png", Sky Sports Main Event
+http://kstv.us:8080/live/Cyndean/6723407368/47868.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png", Premier Sports 1
 http://kstv.us:8080/live/Cyndean/6723407368/47858.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2
