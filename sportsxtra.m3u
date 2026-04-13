@@ -21,9 +21,9 @@ http://kstv.us:8080/live/Cyndean/6723407368/15947.ts
 #EXTINF:-1 group-title="Sports" tvg-id="FoxSoccerPlus.us" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_soccer_plus.png", Fox Soccer Plus
 http://kstv.us:8080/live/Cyndean/6723407368/23315.ts
 #EXTINF:-1 group-title="Sports" tvg-id="GolfChannel.us" tvg-logo="https://www.lyngsat.com//logo/tv/gg/golf_channel_us.png", Golf Channel
-http://kstv.us:8080/live/Cyndean/6723407368/15943.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/3651.ts
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png", MLB Network
-http://89.105.221.127/MLBNetwork/mpegts?token=test
+http://s.rocketdns.info:8080/live/smaggard/2121/3661.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png", NBC Sports Philadelphia
 http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.Plus.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/NBC_Sports_Philadelphia_Plus_2023.svg", NBC Sports Philadelphia Plus
@@ -35,17 +35,17 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
 http://kstv.us:8080/live/Cyndean/6723407368/23279.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
-http://kstv.us:8080/live/Cyndean/6723407368/31132.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/3671.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
 http://195.128.27.185:80/live/CarlaM57/nQ2AdjRQGUgg/867.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png", NHL Network
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png", Premier Sports 1
-http://kstv.us:8080/live/Cyndean/6723407368/47858.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/89089.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2
-http://kstv.us:8080/live/Cyndean/6723407368/47859.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/89090.ts
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png", Sky Sports Main Event
-http://kstv.us:8080/live/Cyndean/6723407368/47868.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/2184.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsmanChannel.us" tvg-logo="https://www.lyngsat.com//logo/tv/ss/sportsman-channel-us.png", Sportsman Channel
 http://kstv.us:8080/live/Cyndean/6723407368/23204.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://tlgrm.re/images/sportsnet-360-ca.png", Sportsnet 360
@@ -55,25 +55,25 @@ http://kstv.us:8080/live/Cyndean/6723407368/15930.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://tlgrm.re/images/sportsnet-world-ca.png", Sportsnet World
 http://kstv.us:8080/live/Cyndean/6723407368/15936.ts
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png", Tennis Channel
-http://cord-cutter.net:8080/bn80NG/909467/20184
-#EXTINF:-1 group-title="Sports" tvg-id="SportsNet1.prmtv" tvg-logo="https://tlgrm.re/images/tsn-1-ca.png", TSN 1
-http://kstv.us:8080/live/Cyndean/6723407368/15929.ts
-#EXTINF:-1 group-title="Sports" tvg-id="SportsNet2.prmtv"tvg-logo="https://tlgrm.re/images/tsn-2-ca.png", TSN 2
-http://kstv.us:8080/live/Cyndean/6723407368/15928.ts
-#EXTINF:-1 group-title="Sports" tvg-id="SportsNet3.prmtv" tvg-logo="https://tlgrm.re/images/tsn-3-ca.png", TSN 3
-http://kstv.us:8080/live/Cyndean/6723407368/15927.ts
-#EXTINF:-1 group-title="Sports" tvg-id="SportsNet4.prmtv" tvg-logo="https://tlgrm.re/images/tsn-4-ca.png", TSN 4
-http://kstv.us:8080/live/Cyndean/6723407368/15926.ts
-#EXTINF:-1 group-title="Sports" tvg-id="SportsNet5.prmtv" tvg-logo="https://tlgrm.re/images/tsn-5-ca.png", TSN 5
-http://kstv.us:8080/live/Cyndean/6723407368/15925.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/3685.ts
 #EXTINF:-1 group-title="Sports" tvg-id="btsport1.uk" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png", TNT Sports 1
-http://kstv.us:8080/live/Cyndean/6723407368/47850.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/2337.ts
 #EXTINF:-1 group-title="Sports" tvg-id="bt.sport.2.gb" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png", TNT Sports 2
-http://kstv.us:8080/live/Cyndean/6723407368/47851.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/2336.ts
 #EXTINF:-1 group-title="Sports" tvg-id="bt.sport.3.gb" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png", TNT Sports 3
-http://kstv.us:8080/live/Cyndean/6723407368/47852.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/2335.ts
 #EXTINF:-1 group-title="Sports" tvg-id="2m.maroc.ca" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png", TNT Sports 4
-http://kstv.us:8080/live/Cyndean/6723407368/47853.ts
+http://s.rocketdns.info:8080/live/smaggard/2121/675021.ts
+#EXTINF:-1 group-title="Sports" tvg-id="SportsNet1.prmtv" tvg-logo="https://tlgrm.re/images/tsn-1-ca.png", TSN 1
+http://s.rocketdns.info:8080/live/smaggard/2121/3146.ts
+#EXTINF:-1 group-title="Sports" tvg-id="SportsNet2.prmtv"tvg-logo="https://tlgrm.re/images/tsn-2-ca.png", TSN 2
+http://s.rocketdns.info:8080/live/smaggard/2121/3145.ts
+#EXTINF:-1 group-title="Sports" tvg-id="SportsNet3.prmtv" tvg-logo="https://tlgrm.re/images/tsn-3-ca.png", TSN 3
+http://s.rocketdns.info:8080/live/smaggard/2121/3144.ts
+#EXTINF:-1 group-title="Sports" tvg-id="SportsNet4.prmtv" tvg-logo="https://tlgrm.re/images/tsn-4-ca.png", TSN 4
+http://s.rocketdns.info:8080/live/smaggard/2121/3143.ts
+#EXTINF:-1 group-title="Sports" tvg-id="SportsNet5.prmtv" tvg-logo="https://tlgrm.re/images/tsn-5-ca.png", TSN 5
+http://s.rocketdns.info:8080/live/smaggard/2121/3142.ts
 #EXTINF:-1 group-title="Sports" tvg-id="WorldFishingNetwork.us" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/world-fishing-network-us.png", World Fishing Network
 http://kstv.us:8080/live/Cyndean/6723407368/23203.ts
 
