@@ -1,12 +1,12 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
-#EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Philadelphia_Phillies_%282019%29_logo.svg/120px-Philadelphia_Phillies_%282019%29_logo.svg.png?raw=true", 1 MLB Philadelphia Phillies
+#EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Philadelphia-Phillies-logo.png", 1 MLB Philadelphia Phillies
 http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/250px-Philadelphia_76ers_logo.svg.png", 2 NBA Philadelphia 76ers
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Philadelphia-76ers-logo.png", 2 NBA Philadelphia 76ers
 http://s.rocketdns.info:8080/live/smaggard/2121/89081.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Eagles.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Philadelphia_Eagles_logo.svg/120px-Philadelphia_Eagles_logo.svg.png", 3 NFL Philadelphia Eagles
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Eagles.us" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Philadelphia-Eagles-Logo.png", 3 NFL Philadelphia Eagles
 http://s.rocketdns.info:8080/live/smaggard/2121/390445.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Flyers.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Philadelphia_Flyers.svg/250px-Philadelphia_Flyers.svg.png", 4 NHL Philadelphia Flyers
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Flyers.us" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Philadelphia-Flyers-logo.png", 4 NHL Philadelphia Flyers
 http://s.rocketdns.info:8080/live/smaggard/2121/509714.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://www.lyngsat.com//logo/tv/ee/espn_us.png", ESPN
