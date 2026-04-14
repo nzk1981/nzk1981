@@ -1,6 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
-#EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Philadelphia_Phillies_%282019%29_logo.svg/120px-Philadelphia_Phillies_%282019%29_logo.svg.png", 1 MLB Philadelphia Phillies
+#EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Philadelphia_Phillies_%282019%29_logo.svg/120px-Philadelphia_Phillies_%282019%29_logo.svg.png?raw=true", 1 MLB Philadelphia Phillies
 http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/250px-Philadelphia_76ers_logo.svg.png", 2 NBA Philadelphia 76ers
 http://s.rocketdns.info:8080/live/smaggard/2121/89081.ts
