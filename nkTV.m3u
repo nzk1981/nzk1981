@@ -5,6 +5,7 @@ http://s.rocketdns.info:8080/live/smaggard/2121/89081.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Eagles.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pe.png?raw=true", .Philadelphia Eagles
 http://s.rocketdns.info:8080/live/smaggard/2121/390445.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Flyers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pf.png?raw=true", .Philadelphia Flyers
+http://kstv.us:8080/live/Cyndean/6723407368/47575.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/509714.ts
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pp.png?raw=true", .Philadelphia Phillies
 http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
