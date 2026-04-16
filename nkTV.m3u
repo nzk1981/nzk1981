@@ -1,6 +1,7 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/p76.png?raw=true", .Philadelphia 76ers
+http://195.128.27.185:80/live/CarlaM57/nQ2AdjRQGUgg/873.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/89081.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Eagles.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pe.png?raw=true", .Philadelphia Eagles
 http://s.rocketdns.info:8080/live/smaggard/2121/390445.ts
