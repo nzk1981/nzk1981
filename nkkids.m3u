@@ -1,0 +1,20 @@
+﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
+
+#EXTINF:-1 group-title="Kids" tvg-id="Boomerang.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true", Boomerang
+http://kstv.us:8080/live/Cyndean/6723407368/23354.ts
+#EXTINF:-1 group-title="Kids" tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true", Cartoon Network
+http://kstv.us:8080/live/Cyndean/6723407368/15959.ts
+#EXTINF:-1 group-title="Kids" tvg-id="Disney.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true", Disney Channel
+http://kstv.us:8080/live/Cyndean/6723407368/23332.ts
+#EXTINF:-1 group-title="Kids" tvg-id="Disney.Junior.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true", Disney JR
+http://kstv.us:8080/live/Cyndean/6723407368/47621.ts
+#EXTINF:-1 group-title="Kids" tvg-id="Disney.XD.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true", Disney XD
+http://kstv.us:8080/live/Cyndean/6723407368/23330.ts
+#EXTINF:-1 group-title="Kids" tvg-id="MeToonsKIKUDT2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true", MeTV Toons
+http://kstv.us:8080/live/Cyndean/6723407368/48753.ts
+#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true", Nickelodeon
+http://kstv.us:8080/live/Cyndean/6723407368/15963.ts
+#EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true", Nick Jr.
+http://kstv.us:8080/live/Cyndean/6723407368/23276.ts
+#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true", Nicktoons
+http://kstv.us:8080/live/Cyndean/6723407368/23274.ts
