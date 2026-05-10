@@ -110,10 +110,8 @@ http://mag.senpay25.com:80/play/live.php?mac=00:1a:79:70:4f:54&stream=1608071&ex
 http://proxpanel.pro:80/live/Lana15/tjLUeQxVL4LE/620667.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.One.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true", Sportsnet One 4K
 http://hardcoremedia.xyz/rabdsbmz/3731346838/260803
-#EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.Ultimate.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png", TNT Sports Ultimate 4K
-http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293860
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png", TNT Sports Ultimate 4k
-http://mag.senpay25.com :80/play/live.php?mac=00:1a:79:70:4f:54&stream=1595637&extension=ts&play_token=0tlRZ0KmWr
+http://mag.senpay25.com:80/play/live.php?mac=00:1a:79:70:4f:54&stream=1595637&extension=ts&play_token=0tlRZ0KmWr
 http://proxpanel.pro:80/live/Lana15/tjLUeQxVL4LE/276789.ts
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.4K.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true", TSN 4K
 http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
