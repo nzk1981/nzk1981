@@ -49,7 +49,7 @@ http://23.227.140.75:5050/live/bmarvin405@gmail.com/s3Z95iPxAH/418159.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.Plus.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/NBC_Sports_Philadelphia_Plus_2023.svg", NBC Sports Philadelphia Plus
 http://195.128.27.185:80/live/CarlaM57/nQ2AdjRQGUgg/873.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/47285.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg", NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
@@ -70,7 +70,7 @@ http://s.rocketdns.info:8080/live/smaggard/2121/89090.ts
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png", Sky Sports Main Event
 http://s.rocketdns.info:8080/live/smaggard/2121/2184.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsmanChannel.us" tvg-logo="https://www.lyngsat.com//logo/tv/ss/sportsman-channel-us.png", Sportsman Channel
-http://kstv.us:8080/live/Cyndean/6723407368/23204.ts
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/43984.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-ca.png?raw=true", Sportsnet
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/21227.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://tlgrm.re/images/sportsnet-360-ca.png", Sportsnet 360
