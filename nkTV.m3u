@@ -1,17 +1,17 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/p76.png?raw=true", .Philadelphia 76ers
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/p76S.png?raw=true", .Philadelphia 76ers
 http://195.128.27.185:80/live/CarlaM57/nQ2AdjRQGUgg/286402.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/89081.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Eagles.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pe.png?raw=true", .Philadelphia Eagles
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Eagles.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/peS.png?raw=true", .Philadelphia Eagles
 http://s.rocketdns.info:8080/live/smaggard/2121/390445.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Flyers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pf.png?raw=true", .Philadelphia Flyers
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Flyers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/pfS.png?raw=true", .Philadelphia Flyers
 http://195.128.27.185:80/live/CarlaM57/nQ2AdjRQGUgg/298718.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/509714.ts
-#EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pp.png?raw=true", .Philadelphia Phillies
+#EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/ppS.png?raw=true", .Philadelphia Phillies
 http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
 --SPORTS--
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/?raw=true", Live Event
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/wls.png?raw=true", Live Event
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/35527.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/espn-us.png?raw=true", ESPN
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/60191.ts
@@ -43,7 +43,7 @@ https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 http://s.rocketdns.info:8080/live/smaggard/2121/89089.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2
 http://s.rocketdns.info:8080/live/smaggard/2121/89090.ts
-#EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png", Sky Sports Main Event
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/ss.png?raw=true", Sky Sports Main Event
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/58925.ts
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/tennis-channel-us.png?raw=true", Tennis Channel
 http://s.rocketdns.info:8080/live/smaggard/2121/3685.ts
@@ -67,7 +67,7 @@ http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/14149.ts
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/39524.ts
 #EXTINF:-1 group-title="TV" tvg-id="CMT.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/cmt-us.png?raw=true", CMT
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/27294.ts
-#EXTINF:-1 group-title="TV" tvg-id="Comedy.Central.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/.png?raw=true", Comedy Central
+#EXTINF:-1 group-title="TV" tvg-id="Comedy.Central.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/cc.png?raw=true", Comedy Central
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/14140.ts
 #EXTINF:-1 group-title="TV" tvg-id="FoodNetwork.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/food-network-us.png?raw=true", Food Network
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/14174.ts
