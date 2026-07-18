@@ -11,12 +11,12 @@ http://s.rocketdns.info:8080/live/smaggard/2121/509714.ts
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/pp.png?raw=true", .Philadelphia Phillies
 http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
 --SPORTS--
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/?raw=true", Live Event
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/35527.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/espn-us.png?raw=true", ESPN
-http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/60190.ts
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/60191.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/espn-2-us.png?raw=true", ESPN 2
-http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/60192.ts
-#EXTINF:-1 group-title="Sports" tvg-id="FoxSoccerPlus.us" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_soccer_plus.png", Fox Soccer Plus
-http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/20872.ts
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/60193.ts
 #EXTINF:-1 group-title="Sports" tvg-id="FoxSports1.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/fox-sports-1-us.png?raw=true", Fox Sports 1
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/44035.ts
 #EXTINF:-1 group-title="Sports" tvg-id="FoxSports2.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/fox-sports-2-us.png?raw=true", Fox Sports 2
@@ -27,10 +27,10 @@ http://s.rocketdns.info:8080/live/smaggard/2121/3651.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/3661.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/nba-tv-us.png?raw=true", NBA TV
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/47285.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/?raw=true", NBC Sports Philadelphia
+#EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/nbc-sports-philadelphia-us.png?raw=true", NBC Sports Philadelphia
 http://lordstreams.live:80/live/fletcher1/fletcher1/874.ts
 http://23.227.140.75:5050/live/bmarvin405@gmail.com/s3Z95iPxAH/418159.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.Plus.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/?raw=true", NBC Sports Philadelphia Plus
+#EXTINF:-1 group-title="Sports" tvg-id="NBC.Sports.Philadelphia.Plus.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/nbc-sports-philadelphia-us.png?raw=true", NBC Sports Philadelphia Plus
 http://195.128.27.185:80/live/CarlaM57/nQ2AdjRQGUgg/873.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/nfl-network-us.png?raw=true", NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
@@ -44,10 +44,10 @@ http://s.rocketdns.info:8080/live/smaggard/2121/89089.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2
 http://s.rocketdns.info:8080/live/smaggard/2121/89090.ts
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png", Sky Sports Main Event
-http://kstv.us:8080/live/Cyndean/6723407368/47868.ts
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/58925.ts
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/tennis-channel-us.png?raw=true", Tennis Channel
 http://s.rocketdns.info:8080/live/smaggard/2121/3685.ts
---TV--
+--LOCAL--
 #EXTINF:-1 group-title="TV" tvg-id="abcwpviphiladelphia.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/abc-us.png?raw=true", ABC 6 (WPVI)
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/47976.ts
 #EXTINF:-1 group-title="TV" tvg-id="cbs3kywphiladelphia.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/cbs-us.png?raw=true", CBS 3 (KYW)
@@ -60,6 +60,7 @@ http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/47303.ts
 http://kstv.us:8080/live/Cyndean/6723407368/49465.ts
 #EXTINF:-1 group-title="TV" tvg-id="nccwla.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/cw-us.png?raw=true", CW 57 (WPSG)
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/48007.ts
+--TV--
 #EXTINF:-1 group-title="TV" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/animal-planet-us.png?raw=true", Animal Planet
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/14149.ts
 #EXTINF:-1 group-title="TV" tvg-id="AXS.TV.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/axs-tv-us.png?raw=true", AXS TV
@@ -77,14 +78,14 @@ http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/29890.ts
 #EXTINF:-1 group-title="TV" tvg-id="History.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/history-us.png?raw=true", History Channel
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/14159.ts
 #EXTINF:-1 group-title="TV" tvg-id="ID.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/investigation-discovery-us.png?raw=true", ID
-http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/3191.ts
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/44020.ts
 #EXTINF:-1 group-title="TV" tvg-id="Me.TV.Network.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/metv-us.png?raw=true", MeTV
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/34893.ts
 http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/national-geographic-us.png?raw=true", Nat Geo
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/19530.ts
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/oxygen-true-crime-us.png?raw=true", Oxygen
-http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/195854.ts
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/43993.ts
 #EXTINF:-1 group-title="TV" tvg-id="Smithsonian.HD.Network.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/smithsonian-channel-us.png?raw=true", Smithsonian Channel
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/37904.ts
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129953
@@ -110,7 +111,7 @@ http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/27768.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Channel.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/disney-channel-us.png?raw=true", Disney Channel
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/19280.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Junior.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/disney-jr-us.png?raw=true", Disney JR
-http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/141028.ts
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/44049.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.XD.HD.us2" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/disney-xd-us.png?raw=true", Disney XD
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/14101.ts
 #EXTINF:-1 group-title="Kids" tvg-id="MeToonsKIKUDT2.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/me-tv-toons-us.png?raw=true", MeTV Toons
