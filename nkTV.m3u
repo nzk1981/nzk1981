@@ -13,6 +13,7 @@ http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
 --SPORTS--
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/wls.png?raw=true", Live Event
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/35527.ts
+http://195.128.27.185:80/live/CarlaM57/nQ2AdjRQGUgg/286402.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/espn-us.png?raw=true", ESPN
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/60191.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/espn-2-us.png?raw=true", ESPN 2
