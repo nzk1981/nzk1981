@@ -56,8 +56,6 @@ http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/47330.ts
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/47319.ts
 #EXTINF:-1 group-title="TV" tvg-id="wtnbcd.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/nbc-us.png?raw=true", NBC 10 (WCAU)
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/47303.ts
-#EXTINF:-1 group-title="TV" tvg-id="17wphlwphl.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/?raw=true", PHL17 (WPHL)
-http://kstv.us:8080/live/Cyndean/6723407368/49465.ts
 #EXTINF:-1 group-title="TV" tvg-id="nccwla.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/cw-us.png?raw=true", CW 57 (WPSG)
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/48007.ts
 --TV--
