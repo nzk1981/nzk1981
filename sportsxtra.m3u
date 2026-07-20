@@ -1,6 +1,8 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/wls.png?raw=true", .Live Event
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/wls.png?raw=true", .Live Event 1
+http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/35527.ts
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/wls.png?raw=true", .Live Event 3
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/35527.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/250px-Philadelphia_76ers_logo.svg.png", .Philadelphia 76ers
 http://proxpanel.live/live/Ronald/Ronald1/286402.ts
