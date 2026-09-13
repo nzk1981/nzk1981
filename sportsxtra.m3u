@@ -70,8 +70,10 @@ http://s.rocketdns.info:8080/live/smaggard/2121/624301.ts
 http://steveit4.net/live/91F0FC3278C2084/cP1qlxl79d/17271.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png", Premier Sports 2
 http://steveit4.net/live/91F0FC3278C2084/cP1qlxl79d/266684.ts
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsplus.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png", Sky Sports +
+http://steveit4.net/live/91F0FC3278C2084/cP1qlxl79d/973137.ts
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png", Sky Sports Main Event
-http://s.rocketdns.info:8080/live/smaggard/2121/2184.ts
+http://steveit4.net/live/91F0FC3278C2084/cP1qlxl79d/365037.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsmanChannel.us" tvg-logo="https://www.lyngsat.com//logo/tv/ss/sportsman-channel-us.png", Sportsman Channel
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/43984.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-ca.png?raw=true", Sportsnet
@@ -121,7 +123,7 @@ http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/61683.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.One.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true", Sportsnet One 4K
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/61684.ts
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png", TNT Sports Ultimate 4k
-http://mag.senpay25.com:80/play/live.php?mac=00:1a:79:70:4f:54&stream=1595637&extension=ts&play_token=0tlRZ0KmWr
+http://4kip55,xyz/live/lalsandri/8xAtYYfVj4/1281083
 http://proxpanel.pro:80/live/Lana15/tjLUeQxVL4LE/276789.ts
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.4K.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true", TSN 4K
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/61686.ts
