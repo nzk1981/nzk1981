@@ -114,3 +114,8 @@ http://tstv8k.com:80/live/KU6JWFL/AGBA3GK/1431827.ts
 http://cash509.com:80/99LWDXUS76H9A9E/wF6VMimvTM/1431827
 #EXTINF:-1 group-title="Sports" tvg-id="V.sport.ultra.HD.dk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/v-sport-ultrahd-se.png?raw=true", V Sport UltraHD
 http://tstv8k.com:80/live/KU6JWFL/AGBA3GK/1281078.ts
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN 4K
+http://starhub.pro/live/PwMDymwUVN/FYRsvmEWnU/817820.ts?play_token=SgyT95TNZF
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-id="ESPN2.us" tvg-logo="https://tlgrm.re/images/espn-2-us.png", ESPN 2 4K
+http://starhub.pro/live/PwMDymwUVN/FYRsvmEWnU/817821.ts?play_token=XGhFcqKVdh
