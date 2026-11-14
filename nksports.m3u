@@ -128,6 +128,11 @@ http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/61684.ts
 #EXTINF:-1 group-title="Sports" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png", TNT Sports Ultimate 4k
 http://4kip55.xyz/live/lalsandri/8xAtYYfVj4/1281083
 http://proxpanel.pro:80/live/Lana15/tjLUeQxVL4LE/276789.ts
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN 4K
+http://starhub.pro/live/PwMDymwUVN/FYRsvmEWnU/817820.ts?play_token=SgyT95TNZF
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-id="ESPN2.us" tvg-logo="https://tlgrm.re/images/espn-2-us.png", ESPN 2 4K
+http://starhub.pro/live/PwMDymwUVN/FYRsvmEWnU/817821.ts?play_token=XGhFcqKVdh
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.4K.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true", TSN 4K
 http://etvhosts.site:55337/live/hisboyelroy/eMw2s11bZ5/61686.ts
 #EXTINF:-1 group-title="Sports" tvg-id="V.sport.ultra.HD.dk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/v-sport-ultrahd-se.png?raw=true", V Sport UltraHD
