@@ -1,10 +1,13 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz" tvg-shift=0
 
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.76ers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/p76S.png?raw=true", .Philadelphia 76ers
+http://3colorwasabi,xyz:80/live/jedd/jedd/286402.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/89081.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Eagles.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/peS.png?raw=true", .Philadelphia Eagles
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.Philadelphia.Eagles.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/peS.png?raw=true", .Philadelphia Eagles
+http://3colorwasabi,xyz:80/live/jedd/jedd/268350.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/390445.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.Philadelphia.Flyers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/pfS.png?raw=true", .Philadelphia Flyers
+#EXTINF:-1 group-title="Sports" tvg-id="NHL.Philadelphia.Flyers.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/pfS.png?raw=true", .Philadelphia Flyers
+http://3colorwasabi,xyz:80/live/jedd/jedd/298718.ts
 http://s.rocketdns.info:8080/live/smaggard/2121/509714.ts
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Philadelphia.Phillies.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/ppS.png?raw=true", .Philadelphia Phillies
 http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
@@ -44,6 +47,8 @@ http://cash509.com:80/99LWDXUS76H9A9E/wF6VMimvTM/72330.ts
 http:/omegaxpro.com/live/joe/joe/268965.ts
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png", MLB Network
 http:/omegaxpro.com/live/joe/joe/268932.ts
+#EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.Strike.Zone.us" tvg-logo="https://i.imgur.com/ZGrahiw.png", MLB Strike Zone
+http://jackofclubs.vip:80/live/Dave1234/Dave1234/176145.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png", NBA TV
 http://jackofclubs.vip:80/live/Dave1234/Dave1234/182026.ts
 http://cash509.com:80/99LWDXUS76H9A9E/wF6VMimvTM/71986.ts
