@@ -14,13 +14,13 @@ http://s.rocketdns.info:8080/live/smaggard/2121/390418.ts
 
 --LOCAL--
 #EXTINF:-1 group-title="TV" tvg-id="abcwpviphiladelphia.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/abc-us.png?raw=true", ABC 6 (WPVI)
-http://3colorwasabi,xyz:80/live/jedd/jedd/1234.ts
+http://thebiddox.xyz/live/john/franklin/54074.ts
 #EXTINF:-1 group-title="TV" tvg-id="cbs3kywphiladelphia.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/cbs-us.png?raw=true", CBS 3 (KYW)
-http://3colorwasabi,xyz:80/live/jedd/jedd/1398.ts
+http://thebiddox.xyz/live/john/franklin/54118.ts
 #EXTINF:-1 group-title="TV" tvg-id="foxwtxfphiladelphia.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/fox-us.png?raw=true", FOX 29 (WTXF)
-http://3colorwasabi,xyz:80/live/jedd/jedd/1595.ts
+http://thebiddox.xyz/live/john/franklin/54261.ts
 #EXTINF:-1 group-title="TV" tvg-id="wtnbcd.us" tvg-logo="https://github.com/nzk1981/nzk1981/blob/main/poster/nbc-us.png?raw=true", NBC 10 (WCAU)
-http://3colorwasabi,xyz:80/live/jedd/jedd/1774.ts
+http://thebiddox.xyz/live/john/franklin/54403.ts
 
 --TV--
 #EXTINF:-1 group-title="Sports" tvg-id="AltitudeSports.us" tvg-logo="https://www.lyngsat.com//logo/tv/aa/altitude-sports-us.png", Altitude Sports
