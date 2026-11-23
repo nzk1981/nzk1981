@@ -71,12 +71,11 @@ http:/omegaxpro.com/live/joe/joe/873.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg", NFL Network
 http:/omegaxpro.com/live/joe/joe/868.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
-http://lordstreams.live:80/live/fletcher1/fletcher1/867.ts
-http://kstv.us:8080/live/Cyndean/6723407368/23279.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
 http://s.rocketdns.info:8080/live/smaggard/2121/3671.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
 http:/omegaxpro.com/live/joe/joe/867.ts
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png", NFL Redzone
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/1031669.ts
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png", NHL Network
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="pokergo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/PokerGO_logo.png", Poker Go
@@ -107,29 +106,30 @@ http:/omegaxpro.com/live/joe/joe/841.ts
 #EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.2.us" tvg-logo="https://i.imgur.com/QCT1frc.png", Tennis Channel 2
 http://lordstreams.live:80/live/fletcher1/fletcher1/328632.ts
 #EXTINF:-1 group-title="Sports" tvg-id="btsport1.uk" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png", TNT Sports 1
-http://jackofclubs.vip:80/live/Dave1234/Dave1234/1846762.ts
-http://tstv8k.com:80/live/KU6JWFL/AGBA3GK/17281.ts
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/895064.ts
 #EXTINF:-1 group-title="Sports" tvg-id="bt.sport.2.gb" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png", TNT Sports 2
-http://jackofclubs.vip:80/live/Dave1234/Dave1234/1846763.ts
-http://tstv8k.com:80/live/KU6JWFL/AGBA3GK/980406.ts
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/895060.ts
 #EXTINF:-1 group-title="Sports" tvg-id="bt.sport.3.gb" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png", TNT Sports 3
-http://jackofclubs.vip:80/live/Dave1234/Dave1234/1846764.ts
-http://tstv8k.com:80/live/KU6JWFL/AGBA3GK/980407.ts
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/895056.ts
 #EXTINF:-1 group-title="Sports" tvg-id="2m.maroc.ca" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png", TNT Sports 4
-http://jackofclubs.vip:80/live/Dave1234/Dave1234/1846765.ts
-http://tstv8k.com:80/live/KU6JWFL/AGBA3GK/311556,ts
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/895052.ts
 #EXTINF:-1 group-title="Sports" tvg-id="bt.sport.5.gb" tvg-logo="https://imgu.rs/i/TNTSports/TNT5.png", TNT Sports 5
 http://jackofclubs.vip:80/live/Dave1234/Dave1234/3074933.ts
 http://tstv8k.com:80/live/KU6JWFL/AGBA3GK/311558.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsNet1.prmtv" tvg-logo="https://tlgrm.re/images/tsn-1-ca.png", TSN 1
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/1012809.ts
 http://3serverx.com/live/Rod123/Rod123/3996.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsNet2.prmtv"tvg-logo="https://tlgrm.re/images/tsn-2-ca.png", TSN 2
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/1012808.ts
 http://3serverx.com/live/Rod123/Rod123/3995.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsNet3.prmtv" tvg-logo="https://tlgrm.re/images/tsn-3-ca.png", TSN 3
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/1012807.ts
 http://3serverx.com/live/Rod123/Rod123/3994.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsNet4.prmtv" tvg-logo="https://tlgrm.re/images/tsn-4-ca.png", TSN 4
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/1012806.ts
 http://3serverx.com/live/Rod123/Rod123/3991.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SportsNet5.prmtv" tvg-logo="https://tlgrm.re/images/tsn-5-ca.png", TSN 5
+http://001.cdnmate.be:80/live/MarcinSz82061/kd262FNND8EjR1tH/1012805.ts
 http://3serverx.com/live/Rod123/Rod123/3992.ts
 #EXTINF:-1 group-title="Sports" tvg-id="UFC.Channel.us" tvg-logo="https://", UFC Channel
 http://rechahd.xyz/live/SALKZ97/8DMSJKH/71943.ts
